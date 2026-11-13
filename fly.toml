@@ -1,10 +1,10 @@
-# fly.toml app configuration file generated for rvg-ja4dag on 2026-11-13T19:11:31Z
+# fly.toml app configuration file generated for rvg-hbeyta on 2026-11-13T19:25:16Z
 #
 # See https://docs.fly.io/reference/configuration for information about how to use this file.
 #
 
-app = 'rvg-ja4dag'
-primary_region = 'fra'
+app = 'rvg-hbeyta'
+primary_region = 'ewr'
 
 [build]
 [http_service]
